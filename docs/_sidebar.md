@@ -17,9 +17,9 @@
     * [1. 简介 Introfuction](C2/1.%20简介%20Introduction.md)
     * [2. 语言模型，提问范式与 Token Language Models, the Chat Format and Tokens](C2/2.%20语言模型，提问范式与%20Token%20Language%20Models,%20the%20Chat%20Format%20and%20Tokens.md)
     * [3. 评估输入-分类 Classification](C2/3.%20评估输入-分类%20Classification.md)
-    * 4. 检查输入-监督 Moderation
-    * 5. 思维链推理 Chain of Thought Reasoning
-    * 6. Prompt 链 Chaining Prompts
+    * [4. 检查输入-监督 Moderation](C2/4.%20检查输入-监督%20Moderation.md)
+    * [5. 思维链推理 Chain of Thought Reasoning](C2/5.%20处理输入-思维链推理%20Chain%20of%20Thought%20Reasoning.md)
+    * [6. Prompt 链 Chaining Prompts](C2/6.%20处理输入-链式%20Prompt%20Chaining%20Prompts.md)
     * [7. 检查结果 Check Outputs](C2/7.%20检查结果%20Check%20Outputs.md)
     * [8. 搭建一个带评估的端到端系统 Evaluation](C2/8.%20搭建一个带评估的端到端问答系统%20Evaluation.md)
     * [9. 评估（上）Evaluation-part1](C2/9.%20评估（上）%20Evaluation-part1.md)
