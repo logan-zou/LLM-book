@@ -14,7 +14,7 @@
     * [9. 总结 Summary](C1/9.%20总结%20Summary.md)
     * 第二部分 搭建基于 ChatGPT 的问答系统
     * [0. 概述](C2/readme.md)
-    * [1. 简介 Introfuction](C2/1.%20简介%20Introduction.md)
+    * [1. 简介 Introduction](C2/1.%20简介%20Introduction.md)
     * [2. 语言模型，提问范式与 Token Language Models, the Chat Format and Tokens](C2/2.%20语言模型，提问范式与%20Token%20Language%20Models,%20the%20Chat%20Format%20and%20Tokens.md)
     * [3. 评估输入-分类 Classification](C2/3.%20评估输入-分类%20Classification.md)
     * [4. 检查输入-监督 Moderation](C2/4.%20检查输入-监督%20Moderation.md)
@@ -25,3 +25,14 @@
     * [9. 评估（上）Evaluation-part1](C2/9.%20评估（上）%20Evaluation-part1.md)
     * [10. 评估（下）Evaluation-part2](C2/10.%20评估（下）Evaluation-part2.md)
     * [11. 总结 Conclusion](C2/11.总结%20conclusion.md)
+    * 第三部分 使用 LangChain 开发应用程序
+    * 第四部分 使用 LangChain 访问个人数据
+    * [0. 概述](C4/readme.md)
+    * [1. 简介 Introduction](C4/1.%20简介%20Introduction.md)
+    * [2. 文档加载 Document Loading](C4/2.%20文档加载%20Document%20Loading.md)
+    * [3. 文档分割 Splitting](C4/3.%20文档分割%20Splitting.md)
+    * [4. 向量数据库与词向量 Vectorstores and Embeddings](C4/4.%20向量数据库与词向量%20Vectorstores%20and%20Embeddings.md)
+    * [5. 检索 Retrieval](C4/5.%20检索%20Retrieval.md)
+    * [6. 问答 Question ANswering](C4/6.%20问答%20Question%20Answering.md)
+    * [7. 聊天 Chat](C4/7.%20聊天%20Chat.md)
+    * [8. 总结 Summary](C4/8.%20总结%20Summary.md)
