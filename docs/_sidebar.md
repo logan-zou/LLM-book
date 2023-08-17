@@ -26,6 +26,10 @@
     * [10. 评估（下）Evaluation-part2](C2/10.%20评估（下）Evaluation-part2.md)
     * [11. 总结 Conclusion](C2/11.总结%20conclusion.md)
     * 第三部分 使用 LangChain 开发应用程序
+    * [0. 概述](C3/readme.md)
+    * [2. 模型、提示和解析器 Models, Prompts and Parsers](C3/2.%20模型、提示和解析器%20Models,%20Prompts%20and%20Output%20Parsers.md)
+    * [3. 储存 Memory](C3/3.%20储存%20Memory.md)
+    * [4. 模型链 Chains](C3/4.%20模型链%20Chains.md)
     * 第四部分 使用 LangChain 访问个人数据
     * [0. 概述](C4/readme.md)
     * [1. 简介 Introduction](C4/1.%20简介%20Introduction.md)
